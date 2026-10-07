@@ -2,7 +2,7 @@
 
 **Student Name:** Nguyen Hoang Phuc  
 **Student ID:** 24IT206  
-**Repository URL:** https://github.com/hoangphuc285/lTHT_GK.git
+**Repository URL:** https://github.com/hoangphuc285/NguyenHoangPhuc_24IT206_midterm.git
 
 ## Overview
 This project implements a subset of the NetBSD `ls(1)` command line utility in C.
