@@ -1,0 +1,9 @@
+# Compiled binaries
+ls_custom
+
+# Object files
+*.o
+
+# System and IDE files
+.DS_Store
+*.swp
