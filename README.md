@@ -1,6 +1,6 @@
 # BÀI TẬP GIỮA KỲ: THỰC HIỆN LỆNH `ls` TRÊN UNIX
 
-* **Môn học:** Lập trình Hệ thống 
+* **Môn học:** Lập trình hệ thống 
 
 * **Họ và tên sinh viên:** Nguyễn Hoàng Phúc
 
@@ -10,7 +10,7 @@
 
 ## 1. TỔNG QUAN DỰ ÁN
 
-Dự án này thực hiện việc viết lại công cụ dòng lệnh `ls` trong hệ điều hành UNIX/Linux từ đầu bằng ngôn ngữ C, dựa trên tập hợp tính năng trong tài liệu tả kỹ thuật (Manual Page) của NetBSD.
+Dự án này thực hiện việc viết lại công cụ dòng lệnh `ls` trong hệ điều hành UNIX/Linux từ đầu bằng ngôn ngữ C, dựa trên tập hợp tính năng trong tài liệu tả kỹ thuật của NetBSD.
 
 Chương trình cho phép người dùng liệt kê danh sách tập tin/thư mục, hiển thị thông tin chi tiết (quyền truy cập, chủ sở hữu, nhóm, kích thước, thời gian, inode, số block,...), hỗ trợ lọc, định dạng dữ liệu và sắp xếp theo nhiều tiêu chí khác nhau.
 
@@ -19,7 +19,7 @@ Chương trình cho phép người dùng liệt kê danh sách tập tin/thư m�
 Dự án được phân chia thành các mô-đun độc lập:
 
 ```
-Name_studentID_midterm/
+NguyenHoangPhuc_24IT206_midterm/
 ├── main.c           # Điều khiển luồng thực thi, phân loại file/thư mục, duyệt đệ quy (-R)
 ├── options.h        # Khai báo cấu trúc lưu trữ cờ lệnh (Options)
 ├── options.c        # Phân tích cờ lệnh bằng getopt() và xử lý độ ưu tiên đè cờ
