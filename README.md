@@ -1,6 +1,6 @@
-# BÀI TẬP GIỮA KỲ: HIỆN THỰC LỆNH `ls` TRÊN UNIX
+# BÀI TẬP GIỮA KỲ: THỰC HÀNH LỆNH `ls` TRÊN UNIX
 
-* **Môn học:** Lập trình Hệ thống 
+* **Môn học:** Lập trình hệ thống 
 
 * **Họ và tên sinh viên:** Nguyễn Hoàng Phúc
 
